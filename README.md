@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ramshey
 - 👀 I’m interested in LOTR, The Weeknd, Dogs, and RPGs.
 - 🌱 I’m currently learning AWS, MySQL, Python etc...
-- 💞️ I’m looking to collaborate on simple Python stuff
 - 📫 Reach me at ramesh_prashanth@outlook.com or on Twitter @_ramshey
