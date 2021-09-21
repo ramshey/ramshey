@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ramesh Prashanth 🇮🇳
+- 👋 Hi, I’m Ramesh Prashanth!
 - 👀 I’m interested in AWS cloud solution architecture, and data analysis among a ton others!
 - 🌱 I’m currently learning AWS, MySQL, Python & taking baby steps into Linux Bash.
 - 📫 Reach me at ramesh_prashanth@outlook.com or on Twitter @_ramshey
