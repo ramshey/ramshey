@@ -1,2 +1,2 @@
 👋 Hi, I’m Ramesh Prashanth!
-📫 Reach me at ramesh.prashanth.k@gmail.com or on Twitter @_ramshey
+📫 Reach me at ramesh.prashanth.k@gmail.com
